@@ -1,6 +1,6 @@
 # Assignment_ML_and_Python
 
-# Part 1: Predict the price of a house
+### Part 1: Predict the price of a house
 
 Problem statement: 
 The goal is to understand the relationship between house features and how these variables affect the house price.
